@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/tignioj/go-mod-demo1
 
 go 1.16
 
